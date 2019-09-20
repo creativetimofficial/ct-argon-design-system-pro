@@ -7,7 +7,7 @@ Start your development with a **Premium Argon Design System for Bootstrap 4**. I
 
 **Fully Coded Components**
 
-Argon Design System PRO is built with over 1200 individual components, 43 sections and 17 example pages giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.<br/>
+**Argon Design System PRO** is built with over 1200 individual components, 43 sections and 17 example pages giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.<br/>
 You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Design System is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. Every element has multiple states for colors, styles, hover, focus, that you can easily access and use. You can view all components [here](https://demos.creative-tim.com/argon-design-system-pro/index.html#basic-elements).
 
 **Core re-built from scratch**
@@ -28,7 +28,7 @@ If you want to get inspiration or just show something directly to your clients, 
 
 ## Bootstrap 4 Support
 
-Argon Design System PRO is built on top of the much awaited Bootstrap 4. This makes starting a new project very simple. It also provides benefits if you are already working on a Bootstrap 4 project; you can just import the Argon Design System PRO style over it. Most of the elements have been redesigned; but if you are using an element we have not touched, it will fall back to the Bootstrap default.
+**Argon Design System PRO** is built on top of the much awaited Bootstrap 4. This makes starting a new project very simple. It also provides benefits if you are already working on a Bootstrap 4 project; you can just import the Argon Design System PRO style over it. Most of the elements have been redesigned; but if you are using an element we have not touched, it will fall back to the Bootstrap default.
 
 
 ## Table of contents
