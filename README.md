@@ -3,17 +3,33 @@
 
 ![alt text](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-design-system-pro/opt_adsp_thumbnail.jpg "Argon Design System PRO")
 
-Start your development with **[Argon Design  System PRO](http://demos.creative-tim.com/argon-design-system-pro/index.html)**. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+Start your development with a **Premium Argon Design System for Bootstrap 4**. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
-Now will help you create a clean and simple website that is a perfect fit for today's black design. It is built using the 12 column grid system, with components designed to fit together perfectly. It makes use of bold colours, beautiful typography, clear photography and spacious arrangements.
+**Fully Coded Components**
 
-## Complex Documentation
+Argon Design System PRO is built with over 1200 individual components, 43 sections and 17 example pages giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.<br/>
+You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Design System is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. Every element has multiple states for colors, styles, hover, focus, that you can easily access and use. You can view all components [here](https://demos.creative-tim.com/argon-design-system-pro/index.html#basic-elements).
 
-Each element is well presented in a very complex documentation. You can read more about the idea behind this design system [here](http://demos.creative-tim.com/argon-design-system-pro/docs/1.0/getting-started/overview.html). You can check the components [here](http://demos.creative-tim.com/argon-design-system-pro/docs/1.0/components/alerts.html) and the foundation [here](http://demos.creative-tim.com/argon-design-system-pro/docs/1.0/foundation/colors.html).
+**Core re-built from scratch**
+
+Start your development with a Premium Argon Design System for Bootstrap 4. Argon is a completly new product built on our newest re-built from scratch framework structure that is meant to make our products more intuitive, more adaptive and, needless to say, so much easier to customize. Let Argon amaze you with its cool features and build tools and get your project to a whole new level. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+
+**Fully coded components**
+
+**Argon Design System PRO** is built with over 1100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using Sass files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Design System is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
+
+**Complex Documentation**
+
+Each element is well presented in a very complex documentation. You can read more about the idea behind this design system [here](https://demos.creative-tim.com/argon-design-system-pro/docs/1.0/getting-started/overview.html). You can check the components [here](https://demos.creative-tim.com/argon-design-system-pro/docs/1.0/components/alerts.html) and the foundation [here](https://demos.creative-tim.com/argon-design-system-pro/docs/1.0/foundation/colors.html).
+
+**Example Pages**
+
+If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built [example pages](https://demos.creative-tim.com/argon-design-system-pro/examples/about-us.html). You will be able to quickly set up the basic structure for your web project.
 
 ## Bootstrap 4 Support
 
 Argon Design System PRO is built on top of the much awaited Bootstrap 4. This makes starting a new project very simple. It also provides benefits if you are already working on a Bootstrap 4 project; you can just import the Argon Design System PRO style over it. Most of the elements have been redesigned; but if you are using an element we have not touched, it will fall back to the Bootstrap default.
+
 
 ## Table of contents
 
