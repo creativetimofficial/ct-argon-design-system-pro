@@ -51,7 +51,7 @@ We've also included an optional Gulp file to help you get started with theme cus
 3.  Type `npm install` in terminal/console in the source folder where `package.json` is located
 4.  You will find all the branding colors inside `assets/scss/argon-design-system-pro/_variables.scss`. You can change them with a `HEX` value or with other predefined variables.
 5.  Run in terminal `gulp compile-scss` for a single compilation or `gulp watch` for continous compilation of the changes that you make in `*.scss` files. This command should be run in the same folder where `gulpfile.js` and `package.json` are located
-6.  Run in terminal `gulp default` for opening the Dashboard Page (default) of the product.
+6.  Run in terminal `gulp open-app` for opening the Dashboard Page (default) of the product.
 
 ## Example Pages
 
