@@ -58,8 +58,8 @@ Let us know your thoughts below. And good luck with development!
 [<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/argon-design-system-pro)
 
 | HTML |
-| --- | --- | --- | ---  |
-| [![Argon Design System PRO  HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-design-system-pro/opt_adsp_thumbnail.jpg)](https://www.creative-tim.com/product/argon-design-system-pro)  |
+
+ [![Argon Design System PRO  HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-design-system-pro/opt_adsp_thumbnail.jpg)](https://www.creative-tim.com/product/argon-design-system-pro)  
 
 
 ## Demo
