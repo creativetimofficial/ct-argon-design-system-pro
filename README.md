@@ -7,16 +7,12 @@ Start your development with a **Premium Argon Design System for Bootstrap 4**. I
 
 **Fully Coded Components**
 
-**Argon Design System PRO** is built with over 1200 individual components, 43 sections and 17 example pages giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.<br/>
+**Argon Design System PRO** is built with over 1100 individual components, 43 sections and 17 example pages giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.<br/>
 You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Design System is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. Every element has multiple states for colors, styles, hover, focus, that you can easily access and use. You can view all components [here](https://demos.creative-tim.com/argon-design-system-pro/index.html#basic-elements).
 
 **Core re-built from scratch**
 
 Start your development with a Premium Argon Design System for Bootstrap 4. Argon is a completly new product built on our newest re-built from scratch framework structure that is meant to make our products more intuitive, more adaptive and, needless to say, so much easier to customize. Let Argon amaze you with its cool features and build tools and get your project to a whole new level. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
-
-**Fully coded components**
-
-**Argon Design System PRO** is built with over 1100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using Sass files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Design System is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
 
 **Complex Documentation**
 
